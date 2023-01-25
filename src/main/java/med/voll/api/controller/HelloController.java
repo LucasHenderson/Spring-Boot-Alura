@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController //Declarando que esse vai ser um controller rest
-@RequestMapping("/hello") //Declarando qual vai ser a URL
+@RequestMapping("hello") //Declarando qual vai ser a URL
 public class HelloController {
     
     @GetMapping
