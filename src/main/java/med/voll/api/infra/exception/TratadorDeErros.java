@@ -30,4 +30,5 @@ public class TratadorDeErros {
     }
 
     //https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest/task/117181
+    //https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest/task/125341
 }
